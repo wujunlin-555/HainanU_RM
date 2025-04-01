@@ -16,11 +16,11 @@ defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-#languages:
-#  zh:
- #   languageName: 中文
-  #  contentDir: content/zh
-   # weight: 1
+languages:
+  zh:
+    languageName: 中文
+    contentDir: content/zh
+    weight: 1
 #最后这个zh不加会部署失败
 ############################
 ## ADVANCED
