@@ -12,7 +12,7 @@ baseURL: 'https://example.com/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: zh-cn
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
