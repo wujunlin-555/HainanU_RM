@@ -12,11 +12,15 @@ baseURL: 'https://example.com/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-cn
+defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
+languages:
+  zh:
+    languageName: 中文
+    contentDir: content/zh
+    weight: 1
 ############################
 ## ADVANCED
 ############################
