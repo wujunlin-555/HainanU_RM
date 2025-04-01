@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 南海鲨战队
+title: 南海鲨机器人队
 
 # Name pronunciation (optional)
 #name_pronunciation: 海南大学
@@ -29,7 +29,12 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+#RM下面的图标
+#Need to link to a different social network?
+
+#Simply download the SVG brand icon to your assets/media/icons/custom folder. For example, if you download the Facebook logo to assets/media/icons/custom/facebook.svg, you can enter icon: "custom/facebook" to show the Facebook icon.
 profiles:
+
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
