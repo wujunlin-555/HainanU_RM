@@ -15,9 +15,10 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #button跳转到qq群？
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -32,14 +33,18 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🛠 战队研究方向'
       subtitle: ''
       text: |-
+        可操控智能机器人：英雄、步兵、平衡步兵、无人机、飞镖发射架
+
+        自主决策智能系统：哨兵、制导飞镖镖体
+
+        
+        
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+         😃
     design:
       columns: '1'
   - block: collection
