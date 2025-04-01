@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 海南大学 南海鲨战队
+title: 南海鲨战队
 
 # Name pronunciation (optional)
-name_pronunciation: 海南大学
+#name_pronunciation: 海南大学
 
 # Full name (for SEO)
 #first_name: Shiung Wu
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: HainanU-RoboMaster
+role: 海南大学
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: RoboMaster
-    url: https://openai.com/
+    url: https://www.robomaster.com/zh-CN
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
