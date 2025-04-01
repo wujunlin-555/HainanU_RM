@@ -21,6 +21,7 @@ languages:
     languageName: 中文
     contentDir: content/zh
     weight: 1
+#最后这个zh不加会部署失败
 ############################
 ## ADVANCED
 ############################
