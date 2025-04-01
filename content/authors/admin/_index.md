@@ -33,13 +33,13 @@ organizations:
 #Need to link to a different social network?
 
 #Simply download the SVG brand icon to your assets/media/icons/custom folder. For example, if you download the Facebook logo to assets/media/icons/custom/facebook.svg, you can enter icon: "custom/facebook" to show the Facebook icon.
-profiles:
+#profiles:
 
   #- icon: at-symbol
   #  url: 'mailto:your-email@example.com'
   #  label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/HainanU-Robomaster
+  #- icon: brands/github
+  #  url: https://github.com/HainanU-Robomaster
 
 
 Groups:
@@ -94,22 +94,19 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  #- name: Hobbies
+  #  color: '#eeac02'
+  #  color_border: '#f0bf23'
+  #  items:
+  #    - name: Hiking
+  #      description: ''
+  #      percent: 60
+  #      icon: person-simple-walk
+  #    - name: Cats
+  #      description: ''
+  #      percent: 100
+  #      icon: cat
+
 
 #languages:
 #  - name: English
