@@ -39,7 +39,7 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/HainanU-Robomaster
 
 
 Groups:
