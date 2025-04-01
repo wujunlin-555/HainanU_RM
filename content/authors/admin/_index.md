@@ -42,15 +42,15 @@ profiles:
     url: https://github.com/gcushen
 
 
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
 Groups:
-  - 算法
-  - 电控
-  - 硬件
-  - 机械
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+#Groups:
+#  - 算法
+#  - 电控
+#  - 硬件
+#  - 机械
 
 education:
   - area: PhD Artificial Intelligence
