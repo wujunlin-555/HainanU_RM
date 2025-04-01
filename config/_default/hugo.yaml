@@ -47,6 +47,7 @@ imaging:
   quality: 80
   anchor: smart
 timeout: 600000
+#定义了自定义分类法，例如作者（authors）、标签（tags）和出版类型（publication_types）。
 taxonomies:
   author: authors
   tag: tags
