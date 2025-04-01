@@ -5,7 +5,7 @@
  #Default language
 
 zh:
-  languageCode: zh-Hans
+  languageCode: zh
   #contentDir: content/zh
 #en:
  # languageCode: en-us
