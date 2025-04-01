@@ -3,22 +3,22 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
-#main:
-#  - name: 首页
-#    url: /
- #   weight: 10
-  #- name: Talks
-   # url: /#talks
-    #weight: 12
-  #- name: News
-   # url: /#news
-    #weight: 13
-  #- name: 战队历史
-  #  url: history/
-  #  weight: 20
-  #- name: 项目一览
-  #  url: projects/
-   # weight: 30
-  #- name: Teaching
-  #  url: teaching/
-  #  weight: 40
+main:
+  - name: 首页
+    url: /
+    weight: 10
+  - name: Talks
+    url: /#talks
+    weight: 12
+  - name: News
+    url: /#news
+    weight: 13
+  - name: 战队历史
+    url: history/
+    weight: 20
+  - name: 项目一览
+    url: projects/
+    weight: 30
+  - name: Teaching
+    url: teaching/
+    weight: 40
