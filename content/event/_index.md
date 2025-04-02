@@ -4,8 +4,8 @@ cms_exclude: true
 #url: details
 
 # View
-view: card
-
+#view: card
+view: article-list
 # Optional cover image (relative to `assets/media/` folder).
 image:
   caption: ''

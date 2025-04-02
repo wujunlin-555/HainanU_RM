@@ -95,9 +95,9 @@ sections:
     id: details
     content:
       title: 🦈战队详情
-      #filters:
-      #  folders:
-      #    - event
+      filters:
+        folders:
+          - event
     design:
       view: article-list
       columns: 1
