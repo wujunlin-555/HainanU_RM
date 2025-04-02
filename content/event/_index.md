@@ -1,7 +1,7 @@
 ---
 title: details
 cms_exclude: true
-#url: talk
+#url: details
 
 # View
 view: card
