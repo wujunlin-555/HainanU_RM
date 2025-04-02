@@ -17,7 +17,7 @@ main:
   #  url: /#history/
   #  weight: 20
   - name: 战队荣誉
-    url: /#awards
+    url: /award/
     weight: 20
   - name: 项目一览
     url: /projects/
