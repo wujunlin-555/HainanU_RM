@@ -67,7 +67,7 @@ sections:
   - block: collection
     id: details
     content:
-      title: details
+      title: 🦈战队详情
       filters:
         folders:
           - event
