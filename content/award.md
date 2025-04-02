@@ -6,6 +6,7 @@ title: 历史奖项
 #  - Hugo
 #  - Wowchemy
 #  - Markdown
+#这个section调用的是author里面的award，但是award删的差不多了，exp全删了，所以直接在md里面写吧
 sections:
   - block: resume-awards
     content:
@@ -21,10 +22,18 @@ sections:
 
 
 ## 2025
-RoboMaster 高校联盟赛(UL)   福建站 十六强
+### RoboMaster 高校联盟赛(UL)   福建站 十六强
+小组赛
 
-RoboMaster 步兵对抗赛       福建站 
+2：0江西工程学院
 
-RoboMaster 工程兑矿赛       福建站 第三
+2：0厦门理工学院
+
+2：0厦门嘉庚学院
+
+### RoboMaster 步兵对抗赛       福建站 
+
+### RoboMaster 工程兑矿赛       福建站 第三
+
 ## 2024
-RoboMaster UL 广东站
+### RoboMaster UL 广东站
