@@ -44,7 +44,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: Award
+    id: awards
     content:
       title: History Award
       filters:
