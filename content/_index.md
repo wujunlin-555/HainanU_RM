@@ -80,16 +80,30 @@ sections:
   #      exclude_featured: false
   #  design:
   #    view: citation
+
+#  - block: collection
+#    id: details
+#    content:
+#      title: 🦈战队详情
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      view: article-grid
+#      columns: 1
   - block: collection
     id: details
     content:
       title: 🦈战队详情
-      filters:
-        folders:
-          - event
+      #filters:
+      #  folders:
+      #    - event
     design:
-      view: article-grid
+      view: article-list
       columns: 1
+
+
+      
   - block: collection
     id: news
     content:
