@@ -17,7 +17,7 @@ main:
     url: /#history/
     weight: 20
   - name: 项目一览
-    url: /#projects/
+    url: /projects/
     weight: 30
   - name: 技术文档
     url: /teaching/
