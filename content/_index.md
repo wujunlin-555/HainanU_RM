@@ -48,12 +48,12 @@ sections:
     id: awards
     content:
       title: '历史战绩'
-      subtitle: '2025赛季'
+      #subtitle: '2025赛季'
       text: |-
-        UL福建站 十六强
-      #subtitle: '2024赛季'
-      #text: |-
-      #  UL广东站 
+          <h3>2025赛季</h3>
+          <p>UL福建站 十六强</p>
+          <h3>2024赛季</h3>
+          <p>UL广东站</p> 
         
         
     design:
