@@ -40,9 +40,7 @@ organizations:
   #  label: E-mail Me
   #- icon: brands/github
   #  url: https://github.com/HainanU-Robomaster
-about
-
-Groups:
+groups:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
