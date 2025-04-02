@@ -1,4 +1,4 @@
-# HugoBlox食用指南
+# HugoBlox模板食用指南
 ## blog构建格式
 ---
 title: 
@@ -12,6 +12,21 @@ tags:
 content/_index.md
 author/admin
 共同控制主页
+
+### 这是一个块：
+---
+  - block: collection
+    id: details
+    content:
+      title: 🦈战队详情
+      filters:
+        folders:
+          - event
+    design:
+      view: article-list
+      columns: 1
+---
+这个块指定了event这个folder，我们直接用于存放战队详情
 
 <!--START_SECTION:news-->
 
