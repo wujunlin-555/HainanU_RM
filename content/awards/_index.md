@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: History Award
 cms_exclude: true
 
 # View.

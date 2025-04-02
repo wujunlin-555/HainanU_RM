@@ -49,7 +49,7 @@ sections:
       title: History Award
       filters:
         folders:
-          - publication
+          - awards
         featured_only: true
     design:
       view: article-grid
