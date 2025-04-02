@@ -23,8 +23,11 @@ main:
     url: /projects/
     weight: 30
   - name: 文档
-    url: /文档/
+    url: /文档
     weight: 40
+  - name: Blog
+    url: /Blog
+    weight: 50
   #- name: 电控
   #  parent: 文档
   #  url: /文档/电控/
