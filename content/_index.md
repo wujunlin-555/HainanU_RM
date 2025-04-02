@@ -108,15 +108,15 @@ sections:
     id: news
     content:
       title: Recent News
-      subtitle: ''
-      text: ''
+      #subtitle: ''
+      #text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Filter on criteria
       filters:
-        author: ""
+        #author: ""
         category: ""
         tag: "news"
         exclude_featured: false
@@ -157,10 +157,10 @@ sections:
   - block: markdown
     id: join_us
     content:
-      title: '加入我们：'
+      title: '👉 加入我们：'
       subtitle: ''
       text: |-
-        欢迎对机器人制造、控制感兴趣的小伙伴们加入我们！
+        😃欢迎对机器人制造、控制感兴趣的小伙伴们加入我们！
 
         QQ迎新群:665139428
 
@@ -168,7 +168,6 @@ sections:
 
         哔哩哔哩：南海鲨机器人实验室
         
-        😃
     design:
       columns: '1'
 
