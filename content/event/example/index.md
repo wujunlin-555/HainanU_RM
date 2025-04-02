@@ -4,7 +4,7 @@ title: 南海鲨机器人队详细情报
 #event: Hugo Blox Builder Conference
 #event_url: https://example.org
 
-组织位置: 海南大学信息与通信工程学院407
+address: 海南大学信息与通信工程学院407
 #address:
 #  city: Stanford
 
