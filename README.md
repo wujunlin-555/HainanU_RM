@@ -1,6 +1,8 @@
 # HugoBlox模板食用指南
 我们作为完全不懂前端的臭电控，直接套模板是最敏捷开发的方法（笑）
 这篇md用来记录网站的结构和遇到的一些问题
+
+hugoblox是快速构建hugo的一个template，和hugo一样是用go语言写的，好在vsc能直接编辑，不需要额外装环境。使用hugo部署到github page会遇到一些神秘小问题，我查不到解决方案（关于hugo的文档很少有24年之后的），所以决定跑路到hugoblox。hugoblox使用github提供的action进行网页部署，也很方便。
 ## 一篇blog构建格式
 ---
 title: 
@@ -58,6 +60,7 @@ projects:
 
 例如，如果你的项目文件夹路径是content/project/example/，你可以在当前内容文件中设置：
 ---
+（这里要用源码读，翻译成md有错位。）
 projects:
   - example
 ---
@@ -76,7 +79,10 @@ projects: []
 这些内容可以创建关联：
 ---
 #url_code: 'https://github.com'
+
 #url_pdf: ''
+
 #url_slides: 'https://slideshare.net'
+
 #url_video: 'https://youtube.com'
 ---
