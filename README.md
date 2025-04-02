@@ -5,11 +5,11 @@
 ---
 title: 
 date: 2025-04-02
-author: ''
 #external_link: https://github.com
 tags:
   - Hugo
 ---
+作者是默认为author的，单独添加作者需要在author文件夹中创建专属json，对作者信息进行单独设置，太麻烦了没必要
 ## 主页面管理
 content/_index.md
 
@@ -70,4 +70,13 @@ projects:
 如果你不需要关联任何项目，可以将projects字段设置为空数组：
 ---
 projects: []
+---
+
+## 内容管理
+这些内容可以创建关联：
+---
+#url_code: 'https://github.com'
+#url_pdf: ''
+#url_slides: 'https://slideshare.net'
+#url_video: 'https://youtube.com'
 ---
