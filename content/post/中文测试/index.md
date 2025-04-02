@@ -1,6 +1,9 @@
 ---
 title: 中文post测试
 date: 2025-04-01
-tag：news
+tags:
+  - news
+  - new
+
 ---
 但使龙城飞将在，不教胡马度阴山。

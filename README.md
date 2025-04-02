@@ -3,11 +3,15 @@
 ---
 title: 
 date: 2025-04-02
-author:
+author: ''
 #external_link: https://github.com
 tags:
   - Hugo
 ---
+## 主页面管理
+content/_index.md
+author/admin
+共同控制主页
 
 <!--START_SECTION:news-->
 
