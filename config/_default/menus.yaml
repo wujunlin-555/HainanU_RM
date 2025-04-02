@@ -19,6 +19,6 @@ main:
   - name: 项目一览
     url: /#projects/
     weight: 30
-  - name: 迎新培训
-    url: /#teaching/
+  - name: 技术文档
+    url: /teaching/
     weight: 40
