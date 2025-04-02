@@ -14,6 +14,7 @@ author/admin
 共同控制主页
 
 ### 这是一个块：
+（好像要打开源码模式才能正常阅读，直接用md读会缩成一行）
 ---
   - block: collection
     id: details
