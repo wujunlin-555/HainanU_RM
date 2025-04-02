@@ -22,9 +22,9 @@ main:
   - name: 项目一览
     url: /projects/
     weight: 30
-  - name: 文档
-    url: /文档
-    weight: 40
+  #- name: 文档
+  #  url: /文档
+  #  weight: 40
   - name: Blog
     url: /Post
     weight: 50
