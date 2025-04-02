@@ -33,17 +33,17 @@ organizations:
 #Need to link to a different social network?
 
 #Simply download the SVG brand icon to your assets/media/icons/custom folder. For example, if you download the Facebook logo to assets/media/icons/custom/facebook.svg, you can enter icon: "custom/facebook" to show the Facebook icon.
-profiles:
+#profiles:
 
   #- icon: at-symbol
   #  url: 'mailto:your-email@example.com'
   #  label: E-mail Me
   #- icon: brands/github
   #  url: https://github.com/HainanU-Robomaster
-  groups:
-    - Artificial Intelligence
-    - Computational Linguistics
-    - Information Retrieval
+groups:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 #Groups:
 #  - 算法
 #  - 电控
