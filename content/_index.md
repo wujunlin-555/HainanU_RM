@@ -153,4 +153,18 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+
+  - block: markdown
+    id: join_us
+    content:
+      title: '加入我们：'
+      subtitle: ''
+      text: |-
+        QQ:
+        
+        😃
+    design:
+      columns: '1'
+
+
 ---
