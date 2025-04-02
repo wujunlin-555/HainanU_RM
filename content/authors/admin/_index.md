@@ -38,8 +38,8 @@ profiles:
   #- icon: at-symbol
   #  url: 'mailto:your-email@example.com'
   #  label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/HainanU-Robomaster
+  #- icon: brands/github
+  #  url: https://github.com/HainanU-Robomaster
 groups:
   - Artificial Intelligence
   - Computational Linguistics
