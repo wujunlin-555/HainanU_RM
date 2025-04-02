@@ -25,7 +25,7 @@ main:
   - name: 技术文档
     url: /技术文档/
     weight: 40
-  #- name: 电控
-  #  parent: 技术文档
-  #  url: /电控/
-  #  weight: 10
+  - name: 电控
+    parent: 技术文档
+    url: /电控/
+    weight: 10

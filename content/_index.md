@@ -44,20 +44,20 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    id: awards
-    content:
-      title: '历史战绩'
+  #- block: markdown
+  #  id: awards
+  #  content:
+  #    title: '历史战绩'
       #subtitle: '2025赛季'
-      text: |-
-          <h3 style="font-size: 1.2em;">  2025赛季</h3>
-          <p>UL福建站 十六强</p>
-          <h3 style="font-size: 1.2em;">  2024赛季</h3>
-          <p>UL广东站</p> 
+  #    text: |-
+   #       <h3 style="font-size: 1.2em;">  2025赛季</h3>
+   #       <p>UL福建站 十六强</p>
+    #      <h3 style="font-size: 1.2em;">  2024赛季</h3>
+     #     <p>UL广东站</p> 
         
         
-    design:
-      columns: '1'
+    #design:
+    #  columns: '1'
   #- block: collection
     #id: awards
     #content:
