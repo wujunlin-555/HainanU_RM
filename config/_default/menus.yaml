@@ -27,5 +27,5 @@ main:
     weight: 40
   - name: 电控
     parent: 技术文档
-    url: /电控/
+    url: /技术文档/电控/
     weight: 10
