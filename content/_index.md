@@ -47,10 +47,13 @@ sections:
   - block: markdown
     id: awards
     content:
-      title: 'History Award'
-      subtitle: ''
+      title: '历史战绩'
+      subtitle: '2025赛季'
       text: |-
-        2025 UL福建站 十六强
+        UL福建站 十六强
+      subtitle: '2024赛季'
+      text: |-
+        UL广东站 
         
         
     design:
