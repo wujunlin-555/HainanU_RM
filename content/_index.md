@@ -43,17 +43,30 @@ sections:
         😃
     design:
       columns: '1'
-  - block: collection
+
+  - block: markdown
     id: awards
     content:
-      title: History Award
-      filters:
-        folders:
-          - awards
-        featured_only: true
+      title: 'History Award'
+      subtitle: ''
+      text: |-
+        2025 UL福建站 十六强
+        
+        
     design:
-      view: article-grid
-      columns: 2
+      columns: '1'
+  #- block: collection
+    #id: awards
+    #content:
+      #title: History Award
+    # filters:
+    #    folders:
+    #      - awards
+        
+    #    featured_only: true
+    #design:
+    #  view: article-grid
+    #  columns: 2
   #- block: collection
   #  content:
   #    title: Recent Publications
