@@ -1,5 +1,5 @@
 ---
-title: Hero
+title: 全向轮步兵
 date: 2025-04-02
 #external_link: https://github.com/pandas-dev/pandas
 tags:
@@ -8,5 +8,4 @@ tags:
   - Markdown
 ---
 
-## 英雄
-最强输出单位
+## 全向轮步兵

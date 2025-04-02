@@ -1,12 +1,9 @@
 ---
-title: Hero
+title: 哨兵机器人
 date: 2025-04-02
 #external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
   - Markdown
 ---
 
-## 英雄
-最强输出单位
+## 哨兵
