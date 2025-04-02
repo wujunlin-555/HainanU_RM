@@ -22,10 +22,10 @@ main:
   - name: 项目一览
     url: /projects/
     weight: 30
-  - name: 技术文档
-    url: /技术文档/
+  - name: 文档
+    url: /文档/
     weight: 40
-  - name: 电控
-    parent: 技术文档
-    url: /技术文档/电控/
-    weight: 10
+  #- name: 电控
+  #  parent: 文档
+  #  url: /文档/电控/
+  #  weight: 10
