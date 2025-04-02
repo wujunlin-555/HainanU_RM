@@ -51,9 +51,9 @@ sections:
       subtitle: '2025赛季'
       text: |-
         UL福建站 十六强
-      subtitle: '2024赛季'
-      text: |-
-        UL广东站 
+      #subtitle: '2024赛季'
+      #text: |-
+      #  UL广东站 
         
         
     design:
