@@ -50,7 +50,7 @@ sections:
       title: '历史战绩'
       #subtitle: '2025赛季'
       text: |-
-          <h3>2025赛季</h3>
+          <h3 style="font-size: 1.2em;">2025赛季</h3>
           <p>UL福建站 十六强</p>
           <h3>2024赛季</h3>
           <p>UL广东站</p> 
