@@ -40,13 +40,13 @@ sections:
 
         自主决策智能系统：哨兵、制导飞镖镖体
         
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind.     😃
+        😃
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: Award
     content:
-      title: Featured Publications
+      title: History Award
       filters:
         folders:
           - publication
