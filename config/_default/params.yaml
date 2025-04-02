@@ -29,13 +29,13 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: false
+    enable: enable
     blox: "navbar"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo:
-      text: "HainanU-RoboMaster"
+    #logo:
+    #  text: "HainanU-RoboMaster"
 
 # Site footer
 footer:
