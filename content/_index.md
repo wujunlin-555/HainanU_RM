@@ -39,9 +39,6 @@ sections:
         可操控智能机器人：英雄、步兵、平衡步兵、无人机、飞镖发射架
 
         自主决策智能系统：哨兵、制导飞镖镖体
-
-        
-        
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind.     😃
     design:
       columns: '1'
