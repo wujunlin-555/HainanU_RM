@@ -3,6 +3,10 @@
 这篇md用来记录网站的结构和遇到的一些问题
 
 hugoblox是快速构建hugo的一个template，和hugo一样是用go语言写的，好在vsc能直接编辑，不需要额外装环境。使用hugo部署到github page会遇到一些神秘小问题，我查不到解决方案（关于hugo的文档很少有24年之后的），所以决定跑路到hugoblox。hugoblox使用github提供的action进行网页部署，也很方便。
+
+https://hugo.opendocs.io/getting-started/
+这是官方的中文文档，虽然跟template的结构差的不少，但是有些基础性的东西是通用的。
+
 ## 一篇blog构建格式
 ---
 title: 
