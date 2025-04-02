@@ -1,7 +1,7 @@
 ---
 title: 全向轮步兵
 date: 2025-04-02
-author: qianjiu
+author: 'qianjiu'
 #external_link: https://github.com/pandas-dev/pandas
 tags:
 
