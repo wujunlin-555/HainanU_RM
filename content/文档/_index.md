@@ -1,5 +1,5 @@
 ---
-title: 技术文档
+title: 文档
 summary: My courses
 type: landing
 
@@ -11,12 +11,13 @@ cascade:
 
 sections:
   - block: collection
-    id: 技术文档
+    id: 文档
     content:
-      title: 技术文档
+      title: 文档
       filters:
         folders:
-          - 技术文档
+          - 文档
+          - 文档/电控
     design:
       view: article-grid
       columns: 2
