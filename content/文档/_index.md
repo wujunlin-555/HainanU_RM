@@ -17,7 +17,7 @@ sections:
       filters:
         folders:
           - 文档
-          - 文档/电控
+          #- 文档/电控
     design:
       view: article-grid
       columns: 2
