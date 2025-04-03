@@ -41,6 +41,11 @@ sections:
         自主决策智能系统：哨兵、制导飞镖镖体
         
         😃
+
+        <video controls autoplay>
+          <source src="/videos/步兵.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
     design:
       columns: '1'
 
