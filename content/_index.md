@@ -43,7 +43,7 @@ sections:
         😃
 
         <video controls autoplay>
-          <source src="/videos/test.mp4" type="video/mp4">
+          <source src="/video/test.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
     design:
