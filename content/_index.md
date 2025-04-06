@@ -9,16 +9,14 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
-    content:
+  #- block: resume-biography-3
+   # content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
+    #  username: admin
+     # text: ""
       # Show a call-to-action button under your biography? (optional)
       #button跳转到qq群？
-      button:
-        text: RM
-        url: https://www.robomaster.com/zh-CN
+
     design:
       css_class: dark
       background:
@@ -31,6 +29,7 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: '🛠 战队研究方向'
@@ -41,24 +40,13 @@ sections:
         自主决策智能系统：哨兵、制导飞镖镖体
         
         😃
-
+      button:
+        text: RM
+        url: https://www.robomaster.com/zh-CN
     design:
       columns: '1'
 
-  #- block: markdown
-  #  id: awards
-  #  content:
-  #    title: '历史战绩'
-      #subtitle: '2025赛季'
-  #    text: |-
-   #       <h3 style="font-size: 1.2em;">  2025赛季</h3>
-   #       <p>UL福建站 十六强</p>
-    #      <h3 style="font-size: 1.2em;">  2024赛季</h3>
-     #     <p>UL广东站</p> 
-        
-        
-    #design:
-    #  columns: '1'
+
   #- block: collection
     #id: awards
     #content:
