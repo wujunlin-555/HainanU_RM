@@ -16,9 +16,9 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       #button跳转到qq群？
-      #button:
-      #  text: Download CV
-      #  url: uploads/resume.pdf
+      button:
+        text: RM
+        url: https://www.robomaster.com/zh-CN
     design:
       css_class: dark
       background:
@@ -42,10 +42,6 @@ sections:
         
         😃
 
-        <video controls autoplay>
-          <source src="/video/test.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
     design:
       columns: '1'
 
