@@ -40,9 +40,9 @@ sections:
         自主决策智能系统：哨兵、制导飞镖镖体
         
         😃
-      button:
-        text: RM
-        url: https://www.robomaster.com/zh-CN
+      #button:
+      #  text: RM
+      #  url: https://www.robomaster.com/zh-CN
     design:
       columns: '1'
 

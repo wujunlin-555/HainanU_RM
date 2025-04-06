@@ -1,4 +1,5 @@
 ---
+title: ""
 #title: 历史奖项
 #date: 2025-04-02
 #external_link: https://github.com/pandas-dev/pandas
