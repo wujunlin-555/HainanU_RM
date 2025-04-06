@@ -4,12 +4,11 @@ title: 南海鲨机器人队详细情报
 #event: Hugo Blox Builder Conference
 #event_url: https://example.org
 
-address: 海南大学信息与通信工程学院407
-#address:
+#address: 海南大学信息与通信工程学院407
 #  city: Stanford
 
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+#summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -32,9 +31,6 @@ featured: false
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
-
-
-
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -54,5 +50,12 @@ slides: ""
 #projects:
 #  - example
 ---
-## 啊啊
-### mdtest
+# 分组信息
+## 算法
+## 电控（嵌入式软件）
+## 硬件（嵌入式硬件）
+## 机械
+
+# 历史战绩
+
+# 南海鲨点将录

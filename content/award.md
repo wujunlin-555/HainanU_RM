@@ -1,5 +1,5 @@
 ---
-title: 历史奖项
+#title: 历史奖项
 #date: 2025-04-02
 #external_link: https://github.com/pandas-dev/pandas
 #tags:
@@ -7,20 +7,20 @@ title: 历史奖项
 #  - Wowchemy
 #  - Markdown
 #这个section调用的是author里面的award，但是award删的差不多了，exp全删了，所以直接在md里面写吧
-sections:
-  - block: resume-awards
-    content:
-      title: wtf
-      username: admin
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
+#sections:
+#  - block: resume-awards
+#    content:
+#      title: wtf
+#      username: admin
+#  - block: resume-experience
+#    content:
+#      username: admin
+#    design:
+#      # Hugo date format
+#      date_format: 'January 2006'
 ---
 
-
+# RoboMaster战绩
 ## 2025
 ### RoboMaster 高校联盟赛(UL)   福建站 十六强
 小组赛
