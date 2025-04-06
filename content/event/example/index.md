@@ -8,7 +8,7 @@ title: 南海鲨机器人队详细情报
 #  city: Stanford
 
 
-#summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: 更多战队细节
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
