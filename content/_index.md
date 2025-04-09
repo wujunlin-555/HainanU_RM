@@ -31,22 +31,29 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '🛠'
-      subtitle1: '战队研究方向'
+      title: '🛠战队研究方向'
+      #subtitle: '战队研究方向'
       text: |-
         可操控智能机器人：英雄、步兵、平衡步兵、无人机、飞镖发射架
 
         自主决策智能系统：哨兵、制导飞镖镖体
         
         😃
-      subtitle2: '什么是RM'
-      text: |-
-        robomaster
-        
-        😃
       #button:
       #  text: RM
       #  url: https://www.robomaster.com/zh-CN
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: '什么是rm？'
+      #subtitle: '战队研究方向'
+      text: |-
+        rm...
+      button:
+        text: RM
+        url: https://www.robomaster.com/zh-CN
     design:
       columns: '1'
 

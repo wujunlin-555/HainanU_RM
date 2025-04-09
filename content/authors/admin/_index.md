@@ -33,11 +33,7 @@ profiles:
   #  label: E-mail Me
   #- icon: brands/github
   #  url: https://github.com/HainanU-Robomaster
-#Groups:
-#  - 算法
-#  - 电控
-#  - 硬件
-#  - 机械
+
 
 
 work:
