@@ -48,8 +48,8 @@ sections:
       columns: '1'
       #css_class: dark
       background:
-        color: '#f0f0f0'  # 设置背景颜色
-
+        #color: '#f0f0f0'  # 设置背景颜色
+        color: '#65E7F2'
 
 
 
