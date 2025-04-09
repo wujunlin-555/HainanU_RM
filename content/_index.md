@@ -18,7 +18,7 @@ sections:
       #button跳转到qq群？
 
     design:
-      css_class: dark
+      #css_class: dark
       background:
         color: '#f0f0f0'
         image:
