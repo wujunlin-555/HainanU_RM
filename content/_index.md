@@ -35,28 +35,25 @@ sections:
       title: ''
       #subtitle: '战队研究方向'
       text: |-
-        # 战队研究方向
-         可操控智能机器人：英雄、步兵、平衡步兵、无人机、飞镖发射架
-          自主决策智能系统：哨兵、制导飞镖镖体
-        # 什么是RM？
-        rm....
-        
-        😃
+
+        <div class="text-center">
+          ## 战队研究方向
+          可操控智能机器人：英雄、步兵、平衡步兵、无人机、飞镖发射架
+            自主决策智能系统：哨兵、制导飞镖镖体
+          ## 什么是RM？
+          rm....
+          😃
+        </div>
       button:
         text: RM
         url: https://www.robomaster.com/zh-CN
     design:
       columns: '1'
+      css_class: dark
+      background:
+        color: '#f0f0f0'  # 设置背景颜色
 
-  - block: markdown
-    content:
-      title: '什么是rm？'
-      #subtitle: '战队研究方向'
-      text: |-
-        rm...
-      
-    design:
-      columns: '1'
+
 
 
   #- block: collection
