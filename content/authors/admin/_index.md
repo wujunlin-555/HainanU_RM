@@ -2,13 +2,6 @@
 # Display name
 title: 南海鲨机器人队
 
-# Name pronunciation (optional)
-#name_pronunciation: 海南大学
-
-# Full name (for SEO)
-#first_name: Shiung Wu
-#last_name: Chien
-
 # Status emoji
 #status:
 #  icon: ☕️
@@ -40,10 +33,6 @@ profiles:
   #  label: E-mail Me
   #- icon: brands/github
   #  url: https://github.com/HainanU-Robomaster
-groups:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 #Groups:
 #  - 算法
 #  - 电控
@@ -102,4 +91,4 @@ awards:
 
 ## 战队简介
 
-南海鲨机器人队是属于信息与通信工程学院IPAC实验室团队（无人智能系统创新创业重点团队）的一支致力于机器人设计的队伍，参加以机甲大师高校系列赛为主的一系列赛事。
+南海鲨机器人队是属于信息与通信工程学院AIRC实验室团队的一支致力于机器人设计的队伍，参加以RoboMaster机甲大师高校系列赛为主的一系列赛事。
