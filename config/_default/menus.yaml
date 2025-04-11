@@ -41,9 +41,7 @@ main:
     url: /#join_us
     weight: 50
 
-  - name: test
-    url: /Post
-    weight: 33
+  
   #- name: 电控
   #  parent: 文档
   #  url: /文档/电控/
