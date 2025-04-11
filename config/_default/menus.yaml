@@ -36,12 +36,14 @@ main:
   - name: Blog
     url: /Post
     weight: 40
-
+  
   - name: 加入我们
     url: /#join_us
     weight: 50
 
-  
+  - name: Blog
+    url: /Post
+    weight: 33
   #- name: 电控
   #  parent: 文档
   #  url: /文档/电控/
