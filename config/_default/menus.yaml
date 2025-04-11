@@ -41,7 +41,7 @@ main:
     url: /#join_us
     weight: 50
 
-  - name: Blog
+  - name: test
     url: /Post
     weight: 33
   #- name: 电控
