@@ -33,9 +33,9 @@ main:
   
 
 
-  - name: Blog
-    url: /Post
-    weight: 40
+  # - name: Blog
+  #   url: /Post
+  #   weight: 40
   
   - name: 加入我们
     url: /#join_us
